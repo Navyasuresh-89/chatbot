@@ -1,0 +1,78 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - hello_world
+  - search_hospital
+  - corona_state
+  - corona_intro
+  - corona_spread
+  - corona_food_spread
+  - warm_weather
+  - high_risk
+  - corona_case
+ 
+
+entities:
+  - hospital
+  - state
+  
+ 
+
+actions:
+  - action_hello_world
+  - action_search_hospital
+  - action_corona_tracker
+
+
+    
+responses:
+  utter_greet:
+  - text: "Hey! How can I help you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_corona_intro:
+  - text: "corona is a infectious disease caused by a newly discovered corona virus "
+
+  utter_corona_spread:
+  - text: "It spread through droplets from nose or mouth of infected person"
+
+  utter_corona_food_spread:
+  - text: "Currently no corona issues found by food"
+
+  utter_warm_weather:
+  - text: "From evidemce: virus can be transmitted in all seasons "
+
+  utter_high_risk:
+  - text:  " Persons with heart disease, respiratory disorders and aged people"
+
+  utter_corona_case:
+  - text: "Which state information do you need?"
+
+
+ 
+
+  
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
