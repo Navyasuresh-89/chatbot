@@ -16,7 +16,8 @@
   * recent and frequent queries
   * auto suggesst/ smart compose
 # Swot analysis
-![image](https://user-images.githubusercontent.com/88529468/128585782-e9e131a3-f245-43fa-8a00-d24e89bc3d4a.png)
+![image](https://user-images.githubusercontent.com/88529468/128585823-0c8a623f-d15e-4143-ade5-e198345b83f4.png)
+
 
 
 # cost
