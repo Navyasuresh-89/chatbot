@@ -37,5 +37,8 @@
 # Detailed requirements
 # High level requirements
 ![image](https://user-images.githubusercontent.com/88529468/128586069-c3d5609c-279f-4a98-a925-1c39bc6efac5.png)
+# Low level requirements
+![image](https://user-images.githubusercontent.com/88529468/128586112-d76f15c7-832f-4418-8b5e-82f741190f07.png)
+
 
   
