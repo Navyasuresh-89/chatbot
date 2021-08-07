@@ -15,6 +15,9 @@
   * conversation domains implemented
   * recent and frequent queries
   * auto suggesst/ smart compose
+# Swot analysis
+![image](https://user-images.githubusercontent.com/88529468/128585760-ac98d283-8bf4-4bad-a239-4167182dc70c.png)
+
 # cost
   As rasa is open source platform, cost in creating chabot using rasa is less.
   Soft savings can be made by creating chatbot.
